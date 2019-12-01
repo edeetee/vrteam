@@ -24,7 +24,7 @@
     "typescript": "^3.0.1",
     "webpack": "^3.3.0",
     "webpack-dashboard": "^0.4.0",
-    "webpack-dev-server": "2.5.1"
+    "webpack-dev-server": "3.1.11"
   },
   "dependencies": {
     "@types/aframe": "^0.8.3",
