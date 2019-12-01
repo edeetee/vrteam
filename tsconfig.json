@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "outDir": "./dist",
-    "target": "es5",
+    "target": "esnext",
     "module": "commonjs",
     "declaration": true,
     "sourceMap": true,
@@ -9,7 +9,8 @@
     "experimentalDecorators": true,
     "lib": [
       "es2015",
-      "dom"
+      "dom",
+      "esnext"
     ],
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true
